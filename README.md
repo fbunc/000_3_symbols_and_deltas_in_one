@@ -93,3 +93,5 @@ $$S_z=\zeta^{S_0}-\zeta^{S_2}$$
 $$\zeta_{\alpha}=\frac{S_x S_y}{S_x+ S_y}$$
 $$\zeta_{\beta}=\frac{ \zeta_{\alpha} S_z}{\zeta_{\alpha}+ S_z}$$
 $$\zeta_{\gamma}=\frac{\zeta_{\alpha}\zeta_{\beta}}{\zeta_{\alpha}+\zeta_{\beta}}$$
+
+$$\chi^n=\frac{1}{S_z**2} e^{\frac{i \pi}{S_x-S_y}}
