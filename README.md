@@ -65,7 +65,7 @@ $$\hat \psi [n] =\psi^n = \hat n[n]+K·\zeta^{S_n}$$
 Lets consider $S_n$ to be a sampled symbol represented in a unit circle wheel with M slots for simplification:
 
 
-Lets consider three consecutive events following an index $n=[0,1,2,3,....,N-1]$ and assign a name to each one :
+Lets consider three consecutive  events following an index $n=[0,1,2,3,....,N-1]$ and assign a name to each one :
 
 $$S_0=S[n]$$
 $$S_1=S[n-1]$$
