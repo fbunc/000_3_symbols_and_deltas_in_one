@@ -78,11 +78,11 @@ $$\delta[n] =\begin{cases} \delta_0\space for \space n=0\space mod\space T_{mod}
                      0\space for \space n > 0 \space mod\space T_{mod} \\
        \end{cases}$$
 
-$$r[n] = r[n-1] + \delta[n] $$
+$$r[n] = r[n-1] + \delta[n] = r_n $$
 
 
 
-$$\hat n[n] =r[n]·\theta^{n}$$
+$$\hat n[n] =r_n·\theta^{n} = \hat n_n$$
 
 
 $$S_x=\zeta^{S_1}-\zeta^{S_0}$$
